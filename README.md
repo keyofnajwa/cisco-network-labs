@@ -17,7 +17,8 @@ Berikut adalah gambaran umum materi yang telah didokumentasikan di dalam reposit
 * **Network Services & Security:** Pengamanan jalur akses (SSH), dan konfigurasi Network Address Translation (NAT).
 
 
-[Networking_Basics_certificate_keysaannajjwa-gmail-com_8515ee8a-0b0e-47e2-acea-109623431c6b.pdf](https://github.com/user-attachments/files/28928916/Networking_Basics_certificate_keysaannajjwa-gmail-com_8515ee8a-0b0e-47e2-acea-109623431c6b.pdf)
+<img width="951" height="603" alt="Screenshot 2026-06-14 212543" src="https://github.com/user-attachments/assets/b7f54e48-a51d-440d-9ce4-3f38200d9e05" />
+
 
 ---
 *Dokumentasi ini dibuat sebagai bukti penyelesaian modul dan acuan pembelajaran di masa mendatang.*
