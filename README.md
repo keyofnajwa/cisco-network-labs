@@ -16,5 +16,8 @@ Berikut adalah gambaran umum materi yang telah didokumentasikan di dalam reposit
 * **Routing Protocols:** Konfigurasi routing statis serta protokol routing dinamis seperti OSPF.
 * **Network Services & Security:** Pengamanan jalur akses (SSH), dan konfigurasi Network Address Translation (NAT).
 
+
+[Networking_Basics_certificate_keysaannajjwa-gmail-com_8515ee8a-0b0e-47e2-acea-109623431c6b.pdf](https://github.com/user-attachments/files/28928916/Networking_Basics_certificate_keysaannajjwa-gmail-com_8515ee8a-0b0e-47e2-acea-109623431c6b.pdf)
+
 ---
 *Dokumentasi ini dibuat sebagai bukti penyelesaian modul dan acuan pembelajaran di masa mendatang.*
